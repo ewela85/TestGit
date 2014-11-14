@@ -9,5 +9,6 @@ public class Main
     {
         System.out.println("branch merge do local master1");
         System.out.println("branch merge do local master2");
+        System.out.println("branch merge do local master3");
     }
 }
