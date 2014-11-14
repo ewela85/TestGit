@@ -7,8 +7,8 @@ public class Main
 {
     public static void main(String[] args)
     {
-        System.out.println("branch merge do local master1");
-        System.out.println("branch merge do local master2");
+        System.out.println("branch merge do local master11");
+        System.out.println("branch merge do local master22");
         System.out.println("branch merge do local master3");
     }
 }
