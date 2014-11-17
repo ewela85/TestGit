@@ -12,5 +12,6 @@ public class Main
         System.out.println("branch merge do local master3");
         System.out.println("komit1");
         System.out.println("komit2");
+        System.out.println("komit3");
     }
 }
