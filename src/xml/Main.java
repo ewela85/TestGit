@@ -1,4 +1,4 @@
-package com;
+package xml;
 
 /**
  * Created by Ewela on 2014-11-12.
